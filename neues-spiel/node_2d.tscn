@@ -110,6 +110,7 @@ sources/1 = SubResource("TileSetAtlasSource_vjeud")
 [node name="Node2D" type="Node2D"]
 
 [node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(2, 2)
 
 [node name="TileMapLayer" type="TileMapLayer" parent="."]
 rotation = -0.00107417

@@ -23,12 +23,14 @@ Follow these instructions to get the project up and running on your local machin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/first-godot-td-game.git
+    git clone 
     ```
 2. Open the project in Godot.
 3. Press **F5** to run the game or use the Play button in the editor.
 
 ## Controls
+
+Placeholder Keybinds
 
 - **Click** to place towers on available tiles.
 - **Drag** to upgrade or sell towers.
@@ -36,9 +38,11 @@ Follow these instructions to get the project up and running on your local machin
 - **Esc** to pause the game.
 
 
+```bash
   ____           _       _   
  / ___| ___   __| | ___ | |_ 
 | |  _ / _ \ / _` |/ _ \| __|
 | |_| | (_) | (_| | (_) | |_ 
- \____|\___/ \__,_|\___/ \__|
-                             
+ \____|\___/ \__,_|\___/ \__| 
+ 
+ ```
